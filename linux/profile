@@ -7,3 +7,7 @@ export VSCODE_DISABLE_TELEMETRY=1
 export VSCODE_TELEMETRY_ENABLED=false
 export VSCODE_DISABLE_TELEMETRY=1
 export GPG_TTY="$(tty)"
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/rc/.local/bin:$PATH"
